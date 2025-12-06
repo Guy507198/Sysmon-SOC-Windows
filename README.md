@@ -16,4 +16,3 @@ Les fichiers présents dans ce dossier permettent :
 - d'illustrer la logique de détection via KQL,
 - de tracer la création et la publication de la règle dans Sentinel.
 
-Ce dossier est destiné à être inclus dans ton portfolio GitHub.
